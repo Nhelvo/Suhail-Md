@@ -1,9 +1,9 @@
 NOTE =  ____REMOVE THIS LINE AFTER RENAMING sample.env to .env ____
 
-OWNER_NUMBER="923184474176"
+OWNER_NUMBER="254113566713"
 SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
 THUMB_IMAGE = "https://telegra.ph/file/a1dba37db0445871b51f6.jpg"
-OWNER_NAME = "Suhail"
+OWNER_NAME = "𝕹𝖍𝖊𝖑𝖛𝖔"
 PREFIX = .*!/
 WARN_COUNT = 3
 DISABLE_PM = "false"
